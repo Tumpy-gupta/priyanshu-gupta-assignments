@@ -1,0 +1,1 @@
+ badminton uses a racket and shuttlecock
